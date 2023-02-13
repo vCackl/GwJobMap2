@@ -1,5 +1,5 @@
-folium==0.14.0
-numpy==1.24.1
-pandas==1.5.3
-streamlit==1.17.0
-streamlit_folium==0.11.0
+folium
+numpy
+pandas
+streamlit
+streamlit_folium
