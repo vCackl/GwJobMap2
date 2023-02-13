@@ -1,5 +1,5 @@
 folium
 numpy
 pandas
-streamlit=1.17.0
-streamlit_folium=0.11.0
+streamlit==1.17.0
+streamlit_folium==0.11.0
